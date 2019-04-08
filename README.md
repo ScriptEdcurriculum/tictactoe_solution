@@ -3,7 +3,7 @@
 ### Gitpod Preview in Browser: python3 -m http.server 3000
 
 ## Overview:
-In this unit, coders will create the classic game of tic tac toe in their brower! The user will input moves as player X or O on a tic tac toe board. When a player wins, the game will end and a message will display the winner.
+In this unit, coders will create the classic game of tic tac toe in their browser! The user will input moves as player X or O on a tic tac toe board. When a player wins, the game will end and a message will display the winner.
 
 ## Day 1
 
