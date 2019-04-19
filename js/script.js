@@ -46,13 +46,13 @@ function checkDiagonalWins() {
 
 function performLogic(button,tile) {
     if (gameIsOver === false) {
-    $(button).hide();
-    $(tile).html(player);
-    checkVerticalWins();
-    checkHorizontalWins();
-    checkDiagonalWins();
-    changePlayers();
-    tieGame();
+        $(button).hide();
+        $(tile).html(player);
+        checkVerticalWins();
+        checkHorizontalWins();
+        checkDiagonalWins();
+        changePlayers();
+        tieGame();
     }
 }
 
