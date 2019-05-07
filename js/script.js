@@ -1,6 +1,6 @@
-var player = "O";
-var turnsTaken = 0;
-var gameIsOver = false;
+let player = "O";
+let turnsTaken = 0;
+let gameIsOver = false;
 
 function changePlayers() {
     turnsTaken = turnsTaken + 1;
