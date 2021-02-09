@@ -27,7 +27,7 @@ In this unit, coders will create the classic game of tic tac toe in their browse
 
 ### Day 1 Goal 3: Allow users to choose a square and change that square to an "X" or an "O" alternating
 
-- [x] Declare a function with two parameters that removes the button of the corresponding ID, and changes the text of the div that is the tileId to the player variable.
+- [x] Declare a function with two parameters that removes the button of the corresponding ID, and changes the text of the div that is the tileId to the player variable. (Then, uncomment this function call in the starter code!)
 - [x] Declare a function with 0 parameters that will change the current player to either "X" or "O" depending on the current player. Decide where to call this function.
 
 #### Wrap
